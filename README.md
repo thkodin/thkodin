@@ -2,8 +2,8 @@
 
 Welcome to my codebook!
 
-- 🔭 I’m currently working on developing secure 3D CAPTCHAs (my thesis), mitigating age bias effects in facial recognition, and denoising images with graphical models. 
-- 🌱 I’m currently learning about bias mitigation, graph theory and blender-python.
+- 🔭 I’m currently working on developing secure 3D CAPTCHAs (my thesis), mitigating age bias effects in facial recognition, and image denoising with graphical methods 
+- 🌱 I’m currently learning about bias mitigation, graph theory and blender-python
 - 💬 Feel free to ask me anything about image processing and machine learning, or talk to me about Lord of the Rings and Valorant 😁
 - ⚡ Fun fact: I love video games, books, and seasons. I also play the piano (horribly) and occasionally compose music 🎶
 
