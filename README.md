@@ -42,7 +42,6 @@ Do reach out if you have any queries about my projects.
 
 <details>
   <summary>:zap: GitHub Stats</summary>
-
-  <img align="left" alt="thkodin's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=thkodin&show_icons=true&hide_border=false&theme=tokyonight" />
-
+  <br/>
+  <img align="left" alt="thkodin's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=thkodin&show_icons=true&hide_border=false&theme=tokyonight&border_color=70a5fd" />
 </details>
