@@ -18,25 +18,15 @@ Do reach out if you have any queries about my projects.
 
 ### Tools, Languages, and Modules
 [<img height="40" width="40" alt="VS Code" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
-&nbsp;
 <img height="40" width="40" alt="MATLAB" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matlab/matlab-original.svg" />
-&nbsp;
 <img height="40" width="40" alt="Python" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
-&nbsp;
 <img height="40" width="40" alt="C++" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" />
-&nbsp;
 <img height="40" width="40" alt="OpenCV" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original.svg" />
-&nbsp;
 <img height="40" width="40" alt="Numpy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" />
-&nbsp;
 <img height="40" width="40" alt="Pandas" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" />
-&nbsp;
 <img height="40" width="40" alt="Tensorflow" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" />
-&nbsp;
 <img height="40" width="40" alt="PyTorch" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" />
-&nbsp;
 <img height="40" width="40" alt="Git" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
-&nbsp;
 <img height="40" width="40" alt="PyTorch" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/anaconda/anaconda-original.svg" />
 ]()
 
