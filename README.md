@@ -2,12 +2,12 @@
 
 Welcome to my codebook!
 
-- 🔭 I’m currently working on developing secure 3D CAPTCHAs (my thesis), mitigating age bias effects in facial recognition, and image denoising with graphical methods 
-- 🌱 I’m currently learning about bias mitigation, graph theory and blender-python
-- 💬 Feel free to ask me anything about image processing and machine learning, or talk to me about Lord of the Rings and Valorant 😁
-- ⚡ Fun fact(s): I love video games, books, and seasons. I also play the piano (horribly) and occasionally compose music 🎶
+- 🔭 I’m currently working on developing secure 3D CAPTCHAs (my thesis) 
+- 🌱 I’m currently learning blender-python and depth and motion-based 3D reconstruction techniques
+- 💬 Feel free to ask me anything about computer vision and AI, or talk to me about games, books, or music 😁
+- ⚡ Fun fact(s): I love playing video games, reading books, and watching seasons. I also play the piano (albeit horribly) and occasionally compose music 🎶
 
-Do reach out if you have any queries about my projects.
+Do reach out if you have any queries about my projects. Quite a few of them are private, but I am open to talking about them.
           
 ### Connect With Me
 [<img height="32" width="32" src="https://cdn.simpleicons.org/linkedin/white">](https://www.linkedin.com/in/taimoor-hasan-khan/#gh-dark-mode-only)
